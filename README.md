@@ -1,1 +1,1 @@
-# Inventory-Managment-System-Pyqt5-Python-Sqlite3
+# Inventory-Managment-System-using( Pyqt5-Python-Sqlite3 )
